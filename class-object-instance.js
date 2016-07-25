@@ -10,4 +10,4 @@ class Polygon {
 }
 
 const p = new Polygon(1,2);
-
+p.area();
