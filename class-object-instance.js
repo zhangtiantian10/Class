@@ -4,3 +4,5 @@ class Polygon {
         this.width = width;
     }
 }
+
+const p = new Polygon(1,2);
